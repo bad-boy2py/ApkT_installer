@@ -1,7 +1,4 @@
-# VX Tool 🦂
-
-<img src="config/github/logo.jpg" alt="logo" width="300px" height="200px">
-
+# ApkT_installer
 
 ### Description
 all pepole want to install apktool for hide virus in original android app, but in instalation have lot of broblems and hard for solve
