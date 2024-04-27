@@ -294,7 +294,7 @@ def sp1(str):
 
 
 
-commands="sudo apt install wget -y && sudo apt install android-libandroidfw android-liblog android-libutils libzopfli1 -y && sudo apt remove zipalign -y && wget http://ftp.de.debian.org/debian/pool/main/a/android-platform-build/zipalign_8.1.0+r23-2_amd64.deb && sudo dpkg -i zipalign_8.1.0+r23-2_amd64.deb && sudo chmod +x config/apktool.jar && sudo chmod +x config/apktool && sudo cp config/apktool.jar /usr/local/bin && sudo cp config/apktool /usr/local/bin"
+commands="sudo apt install apksigner -y && sudo apt install wget -y && sudo apt install android-libandroidfw android-liblog android-libutils libzopfli1 -y && sudo apt remove zipalign -y && wget http://ftp.de.debian.org/debian/pool/main/a/android-platform-build/zipalign_8.1.0+r23-2_amd64.deb && sudo dpkg -i zipalign_8.1.0+r23-2_amd64.deb && sudo chmod +x config/apktool.jar && sudo chmod +x config/apktool && sudo cp config/apktool.jar /usr/local/bin && sudo cp config/apktool /usr/local/bin"
 
 
 
